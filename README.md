@@ -1,6 +1,6 @@
-# AI Breast Cancer subtype Transcriptomics
+# breast-cancer-transcriptomic-classification
 
-An undergraduate bioinformatics project that explores breast cancer transcriptomic data using Python, public genomic datasets, data visualization, and introductory machine learning techniques.
+An independent explanatory bioinformatics project that explores breast cancer transcriptomic data using Python, public genomic datasets, data visualization, and introductory machine learning techniques.
 
 ## Project Objectives
 - Analyze publicly available breast cancer gene expression datasets
@@ -38,7 +38,7 @@ Publicly available breast cancer transcriptomic dataset (NCBI GEO).
 - Genes analyzed: 29,874
 - Classes: 6
 - Model: Random Forest
-- Test Accuracy: 100%
+-Model evaluation: The project explores classification performance using a held-out evaluation set and cross-validation. Because the dataset is small and highly dimensional, the results should be interpreted cautiously and are not intended to represent clinical diagnostic performance.
 
 ---
 
